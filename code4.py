@@ -1,3 +1,4 @@
+#Convert Snake case to Pascal case
 snake_case = "python_language"
 seperate= snake_case.split('_')
 capitalized_words= [i.capitalize() for i in seperate]
