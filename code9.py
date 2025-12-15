@@ -1,5 +1,5 @@
 #Remove All Duplicates from a Given String in Python
-s = "geeksforgeekss"
+s = "geeksforgeekssssssss"
 x=set()
 res=""
 for i in s:
